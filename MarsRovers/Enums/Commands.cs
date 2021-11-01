@@ -10,6 +10,7 @@ namespace MarsRovers.Enums
     {
         Left = 'L',
         Right = 'R',
-        MoveForward = 'M'
+        MoveForward = 'M',
+        MoveBack = 'B'
     }
 }
